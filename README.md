@@ -1,4 +1,6 @@
-# almacenes
-Sistema de entradas y salidas de un almacen 
-Author: Sergio Torrejon
-*INSTALL APP
+# ALMACENES
+***Author: Sergio Torrejon Albornoz***
+***La Paz Bolivia***
+
+## API NESTJS POSTGRES
+## APP ANGULAR
